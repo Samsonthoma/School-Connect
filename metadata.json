@@ -1,0 +1,6 @@
+{
+  "name": "BusTrak - School Transport Management System",
+  "description": "Complete school fleet transport platform featuring live GPS bus tracking, driver trip logs, QR student attendance, voice arrival alerts, and map-based route planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
