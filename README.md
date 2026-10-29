@@ -1,4 +1,4 @@
-# BusTrak - School Transport Management System
+# School Connect - School Transport Management System
 
 > **Unified 3-in-1 School Fleet Management Platform**: Admin Fleet Command, Driver Android Portal, and Parent Live Tracker with In-App Masked Voice Calling and Online School Fees Payments.
 
